@@ -1,7 +1,5 @@
 # iPad_playjs
-This is my playground for an react App build on my iPad using play.js. 
-
-The code was created on an iPad using play.js. 
+This is my playground for React on my iPad using play.js. 
 
 ## how to run the app?
 To run the app on a mac, do the following steps:
